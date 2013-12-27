@@ -7,8 +7,10 @@ Not to be confused with [java.util.TreeMap](http://docs.oracle.com/javase/6/docs
 
 ## Example
 
-![Screenshot](https://github.com/rmtheis/android-treemap/raw/master/device-2013-12-24-191247.png)
+World population by country.
+
+![Screenshot](device-2013-12-24-191247.png)
 
 ## License
 
-[Apache 2.0](http://www.apache.org/licenses/LICENSE-2.0); UMD code subject to [MPL 1.1](http://www.mozilla.org/MPL/)
+[Apache 2.0](http://www.apache.org/licenses/LICENSE-2.0); UMD code subject to [MPL 1.1](http://www.mozilla.org/MPL/1.1/)
