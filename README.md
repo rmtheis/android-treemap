@@ -7,7 +7,7 @@ Not to be confused with [java.util.TreeMap](http://docs.oracle.com/javase/6/docs
 
 ## Example
 
-![Screenshot](https://raw.github.com/rmtheis/android-treemap/master/device-2013-12-24-191247.png)
+![Screenshot](https://github.com/rmtheis/android-treemap/raw/master/device-2013-12-24-191247.png)
 
 ## License
 
